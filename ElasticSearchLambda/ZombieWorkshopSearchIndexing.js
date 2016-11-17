@@ -3,8 +3,8 @@ var path = require('path');
 
 /* == Globals == */
 var esDomain = {
-    region: 'us-west-2',
-    endpoint: 'http://ENDPOINT_HERE',
+    region: 'us-east-1',
+    endpoint: 'http://search-zombiestack-zombiemessages-jol7t6gvbrh3e5pvrrf3pslsei.us-east-1.es.amazonaws.com',
     index: 'messages',
     doctype: 'message'
 };
